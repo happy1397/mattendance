@@ -45,7 +45,7 @@
 							<a href="index.php">Login</a>
 					</li>
 					<li>
-							<a href="http://localhost/mattendance/modules/admin.php">Admin login</a>
+							<a href="modules/admin.php">Admin login</a>
 					</li>
 			</ul>
 	</nav>
